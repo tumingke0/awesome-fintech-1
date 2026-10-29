@@ -81,6 +81,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Betterment](https://www.betterment.com/) – Digital wealth management platform.
 - [Interactive Brokers](https://www.interactivebrokers.com/) – Trading and brokerage APIs.
 - [Alpaca](https://alpaca.markets/) – API-first stock trading and brokerage platform.
+- [DisconfirmAI](https://disconfirmai.com/en) – Investment research and reading platform that looks for counter-evidence before forming a thesis. Filings research, Radar scans, free valuation tools. No trade execution.
 
 ## Personal Finance & Budgeting
 
